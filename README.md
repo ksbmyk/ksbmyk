@@ -1,16 +1,12 @@
-## 👩‍💻 About Me
+## 👋 chobishiba
+Ruby Engineer exploring visual art through creative coding
 
-- Software Engineer
-- Creative Coder
+## 💻 Skills & Technologies
+- Programming: Ruby, Rails
+- Creative Coding: Ruby × p5.js integration, Physical computing with PicoRuby
 
-## 🏃‍♀️ GitHub Activities
-
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ksbmyk&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksbmyk&layout=compact" />
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ksbmyk&theme=juicyfresh&no-bg=true&column=9" />
+## 🔗 Links
+[Daily Sketch](https://ksbmyk.github.io/sketch/) | [Speaker Deck](https://speakerdeck.com/chobishiba) | [note](https://note.com/chobishiba)
 
 
 <!--
