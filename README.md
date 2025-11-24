@@ -6,7 +6,7 @@ Ruby Engineer exploring visual art through creative coding
 - Creative Coding: Ruby × p5.js integration, Physical computing with PicoRuby
 
 ## 🔗 Links
-[Daily Sketch](https://ksbmyk.github.io/sketch/) | [Speaker Deck](https://speakerdeck.com/chobishiba) | [note](https://note.com/chobishiba)
+[Portfolio](https://ksbmyk.github.io) | [Speaker Deck](https://speakerdeck.com/chobishiba) | [note](https://note.com/chobishiba)
 
 
 <!--
